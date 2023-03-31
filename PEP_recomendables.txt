@@ -1,0 +1,22 @@
+PEP 8: Convenciones de estilo de código en Python
+
+La PEP 8 establece directrices para escribir código Python de una manera clara y legible. Algunas de las pautas más importantes incluyen:
+
+Nombres de variables: utilice letras minúsculas para los nombres de variables y separar las palabras con guiones bajos (_), por ejemplo, mi_variable.
+Nombres de funciones: utilice letras minúsculas para los nombres de funciones y separar las palabras con guiones bajos (_), por ejemplo, mi_funcion().
+Indentación: utilice cuatro espacios para la indentación en lugar de tabulaciones.
+Comentarios: utilice comentarios para explicar el código cuando sea necesario, pero no abuse de ellos.
+Longitud de línea: mantenga las líneas de código a un máximo de 79 caracteres de longitud.
+Espacios en blanco: utilice espacios en blanco para separar operadores y después de las comas.
+
+https://www.python.org/dev/peps/pep-0008/
+
+PEP 257: Documentación de código en Python
+
+La PEP 257 establece directrices para escribir documentación de código Python clara y legible. Algunas de las pautas más importantes incluyen:
+
+Docstrings: utilice docstrings para documentar módulos, clases, funciones y métodos. Los docstrings deben ser claros, concisos y explicar lo que hace el código, los parámetros y los valores de retorno.
+Estilo de docstrings: siga el estilo de docstring de una línea o de varias líneas, dependiendo de la complejidad del código que está documentando.
+Ubicación de docstrings: coloque los docstrings inmediatamente después de la definición de módulos, clases, funciones y métodos.
+
+ https://www.python.org/dev/peps/pep-0257/
