@@ -1,5 +1,10 @@
 
 "No puedes descubrir nuevos océanos a menos que tengas el coraje de perder de vista la costa" - André Gide
 
+Piensando sobre el desarrollo de los poderes. Pensandolo en 1 poder por raza o que acompañe al jugador en su viaje.
+-1 FUERTZA SALVAJE: Habilidad que aumenta en X puntos de daño fisico al usuario por 5 segundos o un turno (dependiendo el estilo de RPG), cooldown ( tiempo de reutilizacion ) 2 minutos o 5 turnos (dependiendo el estilo de RPG) . Orientado a ataque
+-2 MURO IMPENETRABLE: Habilidad que aumenta la defensa del usuario en x puntos de defensa por 5 segundos o dos turnos (dependiendo el estilo de RPG).cooldown ( tiempo de reutilizacion ) 2 minutos o 5 turnos (dependiendo el estilo de RPG) . orientada a defensa
+-3 PURIFICACION INSTANTANEA : Habilidad que purifica cualquier estado alterado (quemadura, congelacion, paralizacion, veneno etc) (cooldown) 2 minutos 30 segundos o 5 turnos.
+-4 CURACION VITAL: Habilidad que sana 40% del total de los puntos de vida del usuario.(cooldown) 3 minutos o 5 turnos.
+                                                        -----------------------------------------------------------
 
--
