@@ -8,3 +8,28 @@ Piensando sobre el desarrollo de los poderes. Pensandolo en 1 poder por raza o q
 -4 CURACION VITAL: Habilidad que sana 40% del total de los puntos de vida del usuario.(cooldown) 3 minutos o 5 turnos.
                                                         -----------------------------------------------------------
 
+Actores:
+Jugador
+GM (Game Master)
+
+Precondiciones:
+El jugador ha iniciado sesión en el sistema.
+
+Flujo básico:
+El jugador selecciona la opción de crear un nuevo personaje a través de una plantilla.
+El sistema muestra un formulario para ingresar los datos del personaje, incluyendo nombre del jugador, nombre del personaje, raza, nivel y estado.
+El jugador ingresa los datos del personaje y selecciona las habilidades, equipamientos y poderes iniciales.
+El sistema valida los datos ingresados y crea el personaje con nivel 1, estado vivo y las habilidades, equipamientos y poderes iniciales seleccionados por el jugador.
+Flujo alternativo:
+2a. Si el jugador ya tiene personajes creados, el sistema muestra una lista de personajes y permite seleccionar uno existente para editar en lugar de crear uno nuevo.
+4a. Si el sistema detecta algún error en los datos ingresados, muestra un mensaje de error y devuelve al jugador al formulario para corregirlos.
+
+Flujo de excepción:
+4e. Si el GM modifica el estado de un personaje de vivo a congelado o muerto, el sistema notifica al jugador y desactiva el acceso del jugador a ese personaje.
+
+Postcondiciones:
+El personaje es creado y agregado a la lista de personajes del jugador.
+El GM puede acceder y modificar los datos del personaje en cualquier momento.
+                                                              -----------------------------------------------------------
+
+
