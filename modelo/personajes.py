@@ -57,6 +57,19 @@ if __name__ == "__main__":
     personaje = Personaje(1, "Gandalf", 50, 2, 1, 1, 1)
     print(personaje)
 
+    # Pruebas de conexion a base de datos.
+    
+    def conectarBD():
+        llorar=Conex('localhost', 'root', 'python_db', 3306)
+        cursor=llorar.getConex().cursor()
+        cursor.execute("SELECT * FROM Doctor")
+
+        for registro in cursor:
+            print(registro)
+     
+    
+    conectarBD()
+
 
 
     
