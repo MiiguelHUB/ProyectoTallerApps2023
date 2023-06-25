@@ -4,3 +4,11 @@
 Con el tema de las razas me genera muchas dudas, ya que entiendo que ellas son las que tienen la HABILIDADES y PODERES.
 Entonces cada vez que se necesite manipular estas dos opciones, se deb ir  a las razas???
 -
+Consulta para mostrar DATOS DEL PERSONAJE:
+SELECT u.usuario_nombre, p.personaje_nombre, r.raza_nombre, p.personaje_nivel, e.estado_nombre
+FROM personajes P JOIN usuarios U 
+ON p.usuario_id = u.usuario_id
+JOIN razas R 
+ON r.raza_id = p.raza_id
+JOIN estados E 
+ON E.estado_id = P.estado_id
