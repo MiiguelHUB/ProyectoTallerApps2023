@@ -1,0 +1,7 @@
+TODO LIST
+
+- Carpeta debug con el logging debug: Hecho
+- Carpeta logs con el .txt logs: Hecho
+- Carpeta modelo con modelo.py con las clases a usar: Hecho
+- conexion.py con el modelo de conexion a la BD: Por rectificar
+- usuarioDAO.py con el CRUD basico: Se debe modificar.
