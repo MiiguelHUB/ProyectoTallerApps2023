@@ -1,0 +1,35 @@
+
+"No puedes descubrir nuevos océanos a menos que tengas el coraje de perder de vista la costa" - André Gide
+
+Piensando sobre el desarrollo de los poderes. Pensandolo en 1 poder por raza o que acompañe al jugador en su viaje.
+-1 FUERTZA SALVAJE: Habilidad que aumenta en X puntos de daño fisico al usuario por 5 segundos o un turno (dependiendo el estilo de RPG), cooldown ( tiempo de reutilizacion ) 2 minutos o 5 turnos (dependiendo el estilo de RPG) . Orientado a ataque
+-2 MURO IMPENETRABLE: Habilidad que aumenta la defensa del usuario en x puntos de defensa por 5 segundos o dos turnos (dependiendo el estilo de RPG).cooldown ( tiempo de reutilizacion ) 2 minutos o 5 turnos (dependiendo el estilo de RPG) . orientada a defensa
+-3 PURIFICACION INSTANTANEA : Habilidad que purifica cualquier estado alterado (quemadura, congelacion, paralizacion, veneno etc) (cooldown) 2 minutos 30 segundos o 5 turnos.
+-4 CURACION VITAL: Habilidad que sana 40% del total de los puntos de vida del usuario.(cooldown) 3 minutos o 5 turnos.
+                                                        -----------------------------------------------------------
+
+Actores:
+Jugador
+GM (Game Master)
+
+Precondiciones:
+El jugador ha iniciado sesión en el sistema.
+
+Flujo básico:
+El jugador selecciona la opción de crear un nuevo personaje a través de una plantilla.
+El sistema muestra un formulario para ingresar los datos del personaje, incluyendo nombre del jugador, nombre del personaje, raza, nivel y estado.
+El jugador ingresa los datos del personaje y selecciona las habilidades, equipamientos y poderes iniciales.
+El sistema valida los datos ingresados y crea el personaje con nivel 1, estado vivo y las habilidades, equipamientos y poderes iniciales seleccionados por el jugador.
+Flujo alternativo:
+2a. Si el jugador ya tiene personajes creados, el sistema muestra una lista de personajes y permite seleccionar uno existente para editar en lugar de crear uno nuevo.
+4a. Si el sistema detecta algún error en los datos ingresados, muestra un mensaje de error y devuelve al jugador al formulario para corregirlos.
+
+Flujo de excepción:
+4e. Si el GM modifica el estado de un personaje de vivo a congelado o muerto, el sistema notifica al jugador y desactiva el acceso del jugador a ese personaje.
+
+Postcondiciones:
+El personaje es creado y agregado a la lista de personajes del jugador.
+El GM puede acceder y modificar los datos del personaje en cualquier momento.
+                                                              -----------------------------------------------------------
+
+
