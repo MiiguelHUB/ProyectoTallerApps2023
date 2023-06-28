@@ -3,3 +3,107 @@
 02:50:04 PM: WARNING [log_control.py:25] Mensaje a nivel de warning
 02:50:04 PM: ERROR [log_control.py:26] Mensaje a nivel de critico
 02:50:04 PM: CRITICAL [log_control.py:27] Mensaje a nivel de critico
+10:45:41 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:45:41 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:45:41 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:45:41 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:45:41 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:45:41 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:45:41 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:45:41 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:45:41 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:45:41 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:45:41 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000024966B63110>
+10:45:41 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000249673187D0>
+10:45:41 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000249673187D0>
+10:47:09 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:47:09 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:47:09 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:47:09 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:47:09 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:47:09 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:47:09 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:47:09 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:47:09 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:47:09 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:47:09 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000172DDB1CDD0>
+10:47:09 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000172DE318050>
+10:47:10 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000172DE318050>
+10:48:13 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:13 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:13 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:13 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:13 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:13 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:13 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:13 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:13 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:13 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:13 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x000001AFEE285C10>
+10:48:13 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001AFEE318650>
+10:48:13 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x000001AFEE318650>
+10:48:42 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:42 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:42 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:42 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:43 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:43 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:43 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:43 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:43 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:48:43 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:48:43 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000020A65B1CF50>
+10:48:43 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020A65B631D0>
+10:48:43 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000020A65B631D0>
+10:50:20 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:50:20 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:50:20 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:50:20 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:50:20 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:50:20 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:50:20 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:50:20 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:50:20 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:50:20 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:50:20 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000229AE385C10>
+10:50:20 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229AE618650>
+10:50:20 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000229AE618650>
+10:52:37 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:52:37 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:52:37 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:52:37 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:52:37 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:52:37 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:52:37 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:52:37 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:52:37 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:52:37 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:52:37 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000019F51775B50>
+10:52:37 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000019F51C05C10>
+10:52:37 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x0000019F51C05C10>
+10:56:10 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:56:10 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:56:10 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:56:10 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:56:10 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:56:10 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:56:10 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:56:10 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:56:10 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+10:56:10 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+10:56:10 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x0000024859521E90>
+10:56:10 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000248598F0290>
+10:56:10 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000248598F0290>
+11:01:46 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+11:01:46 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+11:01:46 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+11:01:46 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+11:01:46 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+11:01:46 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+11:01:46 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+11:01:46 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+11:01:46 PM: DEBUG [connection.py:281] # _do_auth(): self._auth_plugin: 
+11:01:46 PM: DEBUG [connection.py:328] new_auth_plugin: mysql_native_password
+11:01:46 PM: DEBUG [conexion.py:29] Creacion de pool exitosa: <mysql.connector.pooling.MySQLConnectionPool object at 0x00000168EC85F710>
+11:01:46 PM: DEBUG [conexion.py:40] Conexion obtenida desde el pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000168EC274990>
+11:01:46 PM: DEBUG [conexion.py:46] Regresando la conexion al pool: <mysql.connector.pooling.PooledMySQLConnection object at 0x00000168EC274990>
